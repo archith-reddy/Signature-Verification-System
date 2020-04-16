@@ -27,6 +27,8 @@ This is the architecture of the model:
       print(model.summary()) 
       
       
-Python's tkinter library was used to develop GUI for the model. The trained networks' weights and parameters are saved locally on a machine and GUI is built on top of it.
+Python's tkinter library was used to develop GUI for the model. The trained networks' weights and parameters are saved locally on a machine and GUI is built on top of it. 
+
+main.py file contains the code for GUI
 
 
